@@ -3,7 +3,7 @@
   "short_name": "pizzahut",
   "start_url": "https://github.com",
   "icons": [{
-    "src": "images/touch/homescreen144.png",
+    "src": "https://avatars1.githubusercontent.com/u/120298?v=3&s=400",
     "sizes": "144x144",
     "type": "image/png"
   }]
